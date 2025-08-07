@@ -1,6 +1,6 @@
 # Library_Task-3
 
-# 📚 Library Management System (Java Console App)
+# 📚 Library Management System
 
 This is a simple **Library Management System** built using **Java**. It allows a user to:
 - Add new books to the library
